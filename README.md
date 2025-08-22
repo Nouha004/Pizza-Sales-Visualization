@@ -12,21 +12,21 @@ Source: Point-of-Sale (POS)
 
 Data Structure Includes:
 
-Order ID
+-Order ID
 
-Date & Time of Order
+-Date & Time of Order
 
-Pizza Category
+-Pizza Category
 
-Pizza Name
+-Pizza Name
 
-Size
+-Size
 
-Quantity Sold
+-Quantity Sold
 
-Unit Price
+-Unit Price
 
-Total Revenue
+-Total Revenue
 
 **🎯 Objectives**
 
@@ -72,6 +72,6 @@ Slice the data by pizza type, category, size, or date range
 
 Data Visualization: Power BI
 
-Data Cleaning & Transformation: Power Query
+Data Cleaning & Transformation: Power Query (Merge queries, ...)
 
 Dataset Storage: .pbix file
