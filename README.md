@@ -1,12 +1,12 @@
-**🍕 Pizza Sales Analysis Dashboard**
+# 🍕 Pizza Sales Analysis Dashboard
 ![Pizza Sales Dashboard](Pizza_sales.png)
 
-**📌 Project Overview**
+# 📌 Project Overview
 
 This project focuses on analyzing pizza sales performance using an interactive Power BI dashboard.
 The goal is to extract meaningful insights from the dataset to track sales trends, understand customer preferences, and support data-driven decision-making for business growth.
 
-**🗂️ Dataset Information**
+# 🗂️ Dataset Information
 
 File Name: Pizza.pbix
 
@@ -30,7 +30,7 @@ Data Structure Includes:
 
 -Total Revenue
 
-**🎯 Objectives**
+# 🎯 Objectives
 
 Analyze total sales performance across different dimensions.
 
@@ -42,7 +42,7 @@ Track monthly, weekly, and daily sales trends.
 
 Enable better inventory and marketing strategies through insights.
 
-**📊 Dashboard Features**
+# 📊 Dashboard Features
 
 The Power BI dashboard includes the following sections:
 
@@ -70,7 +70,7 @@ Interactive Filters
 
 Slice the data by pizza type, category, size, or date range
 
-**🛠️ Tools & Technologies**
+# 🛠️ Tools & Technologies
 
 Data Visualization: Power BI
 
