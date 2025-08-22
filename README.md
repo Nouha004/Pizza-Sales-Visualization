@@ -1,6 +1,7 @@
-**🍕 Pizza Sales Analysis Dashboard
-📌 Project Overview**
+**🍕 Pizza Sales Analysis Dashboard**
 ![Pizza Sales Dashboard](Pizza_sales.png)
+
+**📌 Project Overview**
 
 This project focuses on analyzing pizza sales performance using an interactive Power BI dashboard.
 The goal is to extract meaningful insights from the dataset to track sales trends, understand customer preferences, and support data-driven decision-making for business growth.
